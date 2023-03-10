@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Eu sou João!</h1>
+<h3 align="center">Sou um estudante de Data-Science e Back-End. E atualmente estou participando do programa DESENVOLVE 2023 GP - trilha DADOS.</h3>
 
-<!--
-**joaoramos23/joaoramos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 🌱 **Estou estudando Data-Science e Back-End**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 **joao.fernando.ramos23@gmail.com**
+
+<br>
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoramos23&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoramos23&show_icons=true&locale=en&layout=compact&theme=dracula" alt="joaoramos23" />
+<div>
+
+<br>
+<br>
+
+# Tecnologias:
+
+
+
+<div style="display: inline_block">
+
+<a align="center" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/></a>
+<a align="center" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="40"/></a>
+<a align="center" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/></a> 
+<a align="center" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="40"/></a>
+<a align="center" href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="40"/></a>
+<a align="center" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="40"/> </a> 
+<a align="center" href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="40"/></a> 
+
+</div>
+
+
