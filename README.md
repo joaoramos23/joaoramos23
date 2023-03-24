@@ -7,6 +7,8 @@
 
 - 📫 **joao.fernando.ramos23@gmail.com**
 
+- 🧑🏽‍💻 **Projeto coringa: https://github.com/joaoramos23/projetos_postgresql**
+
 <br>
 
 <div>
