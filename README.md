@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou João!</h1>
-<h3 align="center">Sou um estudante de Engenharia de Dados. E atualmente estou participando do programa DESENVOLVE 2023 GB e Alura - trilha DADOS.</h3>
+<h3 align="center">Sou estudante de Engenharia de Dados. E atualmente estou participando do programa DESENVOLVE 2023 GB e Alura - trilha DADOS.</h3>
 
 <br>
 
