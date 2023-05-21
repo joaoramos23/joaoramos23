@@ -7,7 +7,7 @@
 
 - 📫 **joao.fernando.ramos23@gmail.com**
 
-- 🧑🏽‍💻 **Projeto coringa: https://github.com/joaoramos23/Python-Analise-de-Dados/tree/main/Projeto%20API%20Spotify**
+- 🧑🏽‍💻 **Projeto coringa: https://github.com/joaoramos23/projeto_api_spotify**
 
 <br>
 
